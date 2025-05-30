@@ -1,6 +1,7 @@
 ```markdown
-# Hi there 👋 I'm [Your Name]!
-### A passionate [Your Role] from [Your Location].
+# Hi there 👋 I'm Abdul Rahman Hussain Siddique!
+
+### A passionate Software Dev.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/132890124-7f28ed53-f77e-402a-af2c-e14a1e944415.gif" alt="Coding GIF" width="300"/>
@@ -10,13 +11,12 @@
 
 ### About Me
 
-- 🔭 I’m currently working on building a [type of application/project].
-- 🌱 I’m currently learning [new technology or skill].
-- 👯 I’m looking to collaborate on open-source projects related to [your area of interest].
-- 💬 Ask me about [topics you're knowledgeable in, e.g., web development, data science, design principles].
-- 📫 How to reach me: [your.email@example.com]
-- 😄 Pronouns: He/Him/They/Them (choose yours)
-- ⚡ Fun fact: I can [a fun fact about yourself]!
+- 🔭 I’m currently working on **SplitVoice** (a Splitwise clone), a web application designed to simplify expense splitting among friends by integrating a unique voice-activated AI assistant.
+- 🌱 I’m currently learning more about Natural Language Processing (NLP) for voice commands, frontend frameworks like React & Vue, backend development with Node.js.
+- 👯 I’m looking to collaborate on AI-driven user interfaces, or open-source web applications.
+- 💬 Ask me about UX Design, building intuitive UIs, integrating AI APIs,
+- 📫 How to reach me: [arahmanhs02@gmail.com]
+- ⚡ Fun fact: [A fun fact about yourself]
 
 ---
 
@@ -28,13 +28,16 @@
 
 ### My Latest Endeavors ✨
 
-- 🚀 **[Project Name 1]**: A [brief description, e.g., full-stack e-commerce platform] built with [technologies used].
-  - [GitHub Repo](https://github.com/your-username/project1-repo)
-  - [Live Demo](https://project1-live-demo.com)
+- 🚀 **SplitVoice - AI-Powered Expense Splitter**: A web application cloning the core functionality of Splitwise, but with a significant enhancement: a voice-activated AI assistant for adding and managing splits. Users can simply speak their expense details (e.g., "I paid 75 dollars for groceries with Sarah and David, split equally"), and the AI will parse, confirm, and add the split, making financial management incredibly intuitive for new users.
 
-- 💡 **[Project Name 2]**: A [brief description, e.g., data visualization dashboard] for [purpose] using [technologies used].
-  - [GitHub Repo](https://github.com/your-username/project2-repo)
-  - [Live Demo](https://project2-live-demo.com)
+  - **Key Technologies**: React.js, Tailwind CSS, Web Speech API, Gemini API (for LLM), Node.js, and a database like Firestore/MongoDB.
+  - [GitHub Repo (if public)](https://github.com/your-username/splitvoice-clone-repo)
+  - [Live Demo (if available)](https://your-splitvoice-live-demo.com)
+  - [Watch Demo Video (if you create one)](https://youtube.com/link-to-demo)
+
+- 💡 **[Your Next Top Project]**: A brief description...
+  - [GitHub Repo](Link)
+  - [Live Demo](Link)
 
 ---
 
@@ -77,3 +80,4 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/[YOUR_USERNAME]/count.svg" alt="Profile views">
 </p>
+```
