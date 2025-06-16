@@ -1,10 +1,9 @@
-```markdown
 # Hi there 👋 I'm Abdul Rahman Hussain Siddique!
 
 ### A passionate Software Dev.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/132890124-7f28ed53-f77e-402a-af2c-e14a1e944415.gif" alt="Coding GIF" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/132890124-7f28ed53-f77e-402a-af2c-e14a1e944415.gif" alt="Coding GIF" width="300"/>
 </p>
 
 ---
@@ -29,7 +28,6 @@
 ### My Latest Endeavors ✨
 
 - 🚀 **SplitVoice - AI-Powered Expense Splitter**: A web application cloning the core functionality of Splitwise, but with a significant enhancement: a voice-activated AI assistant for adding and managing splits. Users can simply speak their expense details (e.g., "I paid 75 dollars for groceries with Sarah and David, split equally"), and the AI will parse, confirm, and add the split, making financial management incredibly intuitive for new users.
-
   - **Key Technologies**: React.js, Tailwind CSS, Web Speech API, Gemini API (for LLM), Node.js, and a database like Firestore/MongoDB.
   - [GitHub Repo (if public)](https://github.com/your-username/splitvoice-clone-repo)
   - [Live Demo (if available)](https://your-splitvoice-live-demo.com)
@@ -44,12 +42,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=venaxin&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venaxin&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venaxin&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -57,27 +55,26 @@
 ### Let's Connect! 🌐
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-profile]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/[your-twitter-handle]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
-  </a>
+<a href="https://linkedin.com/in/[your-linkedin-profile]">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/[your-twitter-handle]">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
+</a>
 </p>
 
 ---
 
 <p align="center">
-  Thanks for stopping by! 😊
+Thanks for stopping by! 😊
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/[YOUR_USERNAME]/count.svg" alt="Profile views">
+<img src="https://profile-counter.glitch.me/venaxin/count.svg" alt="Profile views">
 </p>
-```
