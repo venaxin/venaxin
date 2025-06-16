@@ -10,6 +10,7 @@
 
 ### About Me
 
+- 😅 I’m currently working on **my Github Profile Page**
 - 🔭 I’m currently working on **SplitVoice** (a Splitwise clone), a web application designed to simplify expense splitting among friends by integrating a unique voice-activated AI assistant.
 - 🌱 I’m currently learning more about Natural Language Processing (NLP) for voice commands, frontend frameworks like React & Vue, backend development with Node.js.
 - 👯 I’m looking to collaborate on AI-driven user interfaces, or open-source web applications.
