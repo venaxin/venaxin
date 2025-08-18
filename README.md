@@ -3,7 +3,7 @@
 ### A passionate Software Dev.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/132890124-7f28ed53-f77e-402a-af2c-e14a1e944415.gif" alt="Coding GIF" width="300"/>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Abdul+Rahman+Hussain+Siddique;AI+%7C+Web+%7C+UX+Enthusiast;Building+AI-first+products+with+impact" alt="Typing SVG" />
 </p>
 
 ---
