@@ -105,16 +105,17 @@ Links: [Repo](https://github.com/venaxin/Cognito)
 ### Let's Connect! 🌐
 
 <p align="center">
-<a href="https://linkedin.com/in/[your-linkedin-profile]">
+<a href="https://linkedin.com/in/abdul-rahman-hussain]">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<!-- 
 <a href="https://twitter.com/[your-twitter-handle]">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="mailto:your.email@example.com">
+</a> -->
+<a href="mailto:arahmanhs02@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://venaxin.github.io/Portfolio-2025/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
 </a>
 </p>
