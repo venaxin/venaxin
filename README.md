@@ -16,7 +16,6 @@
 - 👯 I’m looking to collaborate on AI-driven user interfaces, or open-source web applications.
 - 💬 Ask me about UX Design, building intuitive UIs, integrating AI APIs,
 - 📫 How to reach me: [arahmanhs02@gmail.com]
-- ⚡ Fun fact: [A fun fact about yourself]
 
 ---
 
@@ -26,17 +25,35 @@
 
 ---
 
-### My Latest Endeavors ✨
+### 🌟 Featured Projects
 
-- 🚀 **SplitVoice - AI-Powered Expense Splitter**: A web application cloning the core functionality of Splitwise, but with a significant enhancement: a voice-activated AI assistant for adding and managing splits. Users can simply speak their expense details (e.g., "I paid 75 dollars for groceries with Sarah and David, split equally"), and the AI will parse, confirm, and add the split, making financial management incredibly intuitive for new users.
-  - **Key Technologies**: React.js, Tailwind CSS, Web Speech API, Gemini API (for LLM), Node.js, and a database like Firestore/MongoDB.
-  - [GitHub Repo (if public)](https://github.com/your-username/splitvoice-clone-repo)
-  - [Live Demo (if available)](https://your-splitvoice-live-demo.com)
-  - [Watch Demo Video (if you create one)](https://youtube.com/link-to-demo)
+#### Intellibot — Chat + Image AI with voice I/O
 
-- 💡 **[Your Next Top Project]**: A brief description...
-  - [GitHub Repo](Link)
-  - [Live Demo](Link)
+Chat and image generation app integrating GPT and DALL·E with optional voice input/output.  
+Features: multi‑modal prompts, streaming responses, clean UI, and sensible fallbacks.  
+Tech: React, Node.js/Express, OpenAI APIs.  
+Links: [Repo](https://github.com/venaxin/intellibot) • [Live](https://intellibot-one.vercel.app/)
+
+#### SplitVoice — Conversational expense splitter
+
+Replace forms with natural language and OCR‑based receipt parsing to split bills effortlessly.  
+Features: AI clarifications, itemized/uneven splits, tax/tip handling, accessible UI.  
+Tech: React, Node.js, OCR, OpenAI.  
+Links: [Repo](https://github.com/venaxin/SplitVoice)
+
+#### HealthAI Connect — AI‑assisted healthcare
+
+Tailored medication suggestions and diagnostics (e.g., tumor, pneumonia) with explainable outputs.  
+Features: CNN‑based imaging, NLP pipelines, clinician‑friendly flows.  
+Tech: Python, Flask, CNN, NLP.  
+Links: [Repo](https://github.com/venaxin/HealthAI-Connect)
+
+#### Cognito — Intelligent learning coach
+
+Personalized study plans with LLM‑generated cards and spaced repetition to build lasting knowledge.  
+Features: goal‑based planner, science‑backed reviews, progress tracking.  
+Tech: React, Tailwind, LLM, spaced repetition.  
+Links: [Repo](https://github.com/venaxin/Cognito)
 
 ---
 
