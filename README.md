@@ -27,6 +27,38 @@
 
 ### 🌟 Featured Projects
 
+#### ![GRASP Chemistry Placeholder](https://raw.githubusercontent.com/venaxin/venaxin-assets/main/chemistry-placeholder.png)
+
+**GRASP** — Cross‑modal Self‑Supervised Molecular Representation Learning _(2025, Completed)_
+
+Card: Cross‑modal self‑supervised molecular representation learning aligning graphs and SMILES with contrastive pre‑training; transfers to MoleculeNet with less labeled data.  
+Tech: PyTorch, PyTorch Geometric, Transformers, RDKit, GNN, ChemBERTa, Self‑Supervised  
+[Case Study (opens in modal)](#grasp-case-study)
+
+<details id="grasp-case-study">
+<summary>Case Study: GRASP</summary>
+
+**Problem & Constraints:**
+
+- Label scarcity, large-scale molecular data, limited compute (Kaggle P100)
+
+**Approach:**
+
+- Data: PubChem, RDKit streaming
+- Pipeline: Optimized for scale, dual encoders (GIN for graphs, ChemBERTa for SMILES)
+- Loss: InfoNCE contrastive loss
+
+**Results:**
+
+- InfoNCE loss curve (see repo)
+- Cosine alignment between modalities
+- MoleculeNet metrics: BBBP 0.94 ROC‑AUC, Tox21 0.8186 ROC‑AUC, ESOL 0.8986 RMSE
+
+**Highlights & References:**
+
+- [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MoleculeNet](https://moleculenet.org/), [SimCLR](https://arxiv.org/abs/2002.05709), [CLIP](https://arxiv.org/abs/2103.00020), [ChemBERTa](https://arxiv.org/abs/2010.09885)
+</details>
+
 #### Intellibot — Chat + Image AI with voice I/O
 
 Chat and image generation app integrating GPT and DALL·E with optional voice input/output.  
@@ -94,5 +126,5 @@ Thanks for stopping by! 😊
 </p>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/venaxin/count.svg" alt="Profile views">
+	<img src="https://komarev.com/ghpvc/?username=venaxin&style=flat-square&color=36BCF7" alt="Profile views"/>
 </p>
