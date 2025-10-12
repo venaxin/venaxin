@@ -33,7 +33,6 @@
 
 Card: Cross‑modal self‑supervised molecular representation learning aligning graphs and SMILES with contrastive pre‑training; transfers to MoleculeNet with less labeled data.  
 Tech: PyTorch, PyTorch Geometric, Transformers, RDKit, GNN, ChemBERTa, Self‑Supervised  
-[Case Study (opens in modal)](#grasp-case-study)
 
 <details id="grasp-case-study">
 <summary>Case Study: GRASP</summary>
