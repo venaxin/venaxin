@@ -97,7 +97,7 @@ Links: [Repo](https://github.com/venaxin/Cognito)
 
 <p align="center">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=venaxin&theme=dark" alt="GitHub Streak" /> -->
-	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=venation&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=795)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=venation&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=795" alt="GitHub Streak" /></a>
 </p>
 
 ---
