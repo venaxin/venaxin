@@ -36,7 +36,7 @@
 ## GitHub stats
 
 <div align="center">
-	<img src="https://github-readme-stats-izfqlnr7n-venaxins-projects.vercel.app/api?username=venaxin&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Abdul Rahman's GitHub stats" width="420" />
-	<img src="https://github-readme-stats-izfqlnr7n-venaxins-projects.vercel.app/api/top-langs/?username=venaxin&layout=compact&card_width=420&theme=dark" alt="Top languages" width="420" />
+	<img src="https://github-readme-stats-kohl-one-65.vercel.app/api?username=venaxin&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Abdul Rahman's GitHub stats" width="420" />
+	<img src="https://github-readme-stats-kohl-one-65.vercel.app/api/top-langs/?username=venaxin&layout=compact&card_width=420&theme=dark" alt="Top languages" width="420" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=venaxin&theme=dark&mode=weekly" alt="GitHub weekly streak" width="420" />
 </div>
