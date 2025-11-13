@@ -22,12 +22,12 @@
 
 ## Recent work
 
-| Project              | What it solves                                                      | Core stack                   |
-| -------------------- | ------------------------------------------------------------------- | ---------------------------- |
-| **SplitVoice**       | Natural-language expense splitting with OCR and voice I/O           | React, Node.js, Whisper, OCR |
-| **LockIN** ([live](https://lockin-ge9d.onrender.com/)) | AI planner that learns from missed-task patterns and slots low-friction work into procrastination windows | React Native, Node.js, ML |
-| **GRASP**            | Self-supervised molecular representation aligning graphs and SMILES | PyTorch, PyG, Transformers   |
-| **HealthAI Connect** | Clinical decision support prototype with explainable imaging models | Python, Flask, CNNs          |
+| Project                                                | What it solves                                                                                            | Core stack                   |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| **SplitVoice**                                         | Natural-language expense splitting with OCR and voice I/O                                                 | React, Node.js, Whisper, OCR |
+| **LockIN** ([live](https://lockin-ge9d.onrender.com/)) | AI planner that learns from missed-task patterns and slots low-friction work into procrastination windows | React Native, Node.js, ML    |
+| **GRASP**                                              | Self-supervised molecular representation aligning graphs and SMILES                                       | PyTorch, PyG, Transformers   |
+| **HealthAI Connect**                                   | Clinical decision support prototype with explainable imaging models                                       | Python, Flask, CNNs          |
 
 ## Toolkit
 
@@ -36,7 +36,7 @@
 ## GitHub stats
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=venaxin&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Abdul Rahman's GitHub stats" width="420" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venaxin&layout=compact&card_width=420&theme=dark" alt="Top languages" width="420" />
+	<img src="https://github-readme-stats-izfqlnr7n-venaxins-projects.vercel.app/api?username=venaxin&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Abdul Rahman's GitHub stats" width="420" />
+	<img src="https://github-readme-stats-izfqlnr7n-venaxins-projects.vercel.app/api/top-langs/?username=venaxin&layout=compact&card_width=420&theme=dark" alt="Top languages" width="420" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=venaxin&theme=dark&mode=weekly" alt="GitHub weekly streak" width="420" />
 </div>
