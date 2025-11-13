@@ -1,39 +1,42 @@
 # Abdul Rahman Hussain Siddique
 
-I design and ship software that blends product research, practical engineering, and thoughtful interfaces.
+<div align="center">
+	<p><strong>Product-minded software engineer shaping voice-first and data-rich experiences that people actually use.</strong></p>
+	<p><a href="https://linkedin.com/in/abdul-rahman-hussain">LinkedIn</a> · <a href="mailto:arahmanhs02@gmail.com">Email</a> · <a href="https://venaxin.github.io/Portfolio-2025/">Portfolio</a></p>
+</div>
 
-## Current focus
+---
 
-- Building SplitVoice, a conversational expense splitter with OCR receipt parsing and voice-driven flows.
-- Partnering with US startup Youro to design and launch their mobile application.
-- Extending GRASP, a cross-modal self-supervised learning pipeline for chemistry datasets.
-- Deepening experience with React, Node.js, and data tooling for multimodal machine learning.
+## Now
 
-## Interests
+- **SplitVoice:** Building a conversational expense splitter with OCR receipt parsing and adaptive voice flows.
+- **Youro:** Partnering with the US startup to design and ship their cross-platform mobile product and supporting infrastructure.
+- **GRASP:** Extending a cross-modal self-supervised pipeline for chemistry datasets and low-label transfer.
+- **Practice:** Deepening React, Node.js, and data tooling for multimodal machine learning.
 
-- Human-centered product design and usability research
-- Language, speech, and assistive interfaces
+## What guides my work
+
+- Human-centered product discovery and usability research
+- Natural language, speech, and assistive interfaces
 - Applied ML for healthcare and scientific discovery
 
-## Selected projects
+## Recent work
 
-- **SplitVoice** — Natural-language expense splitting with OCR and voice I/O ([repo](https://github.com/venaxin/SplitVoice))
-- **Intellibot** — Chat and image generation workspace with optional voice input ([repo](https://github.com/venaxin/intellibot) · [live](https://intellibot-one.vercel.app/))
-- **GRASP** — Self-supervised molecular representation learning aligning graphs and SMILES ([repo](https://github.com/venaxin/GRASP))
-- **HealthAI Connect** — Clinical decision support prototype with explainable imaging models ([repo](https://github.com/venaxin/HealthAI-Connect))
+| Project              | What it solves                                                      | Core stack                   |
+| -------------------- | ------------------------------------------------------------------- | ---------------------------- |
+| **SplitVoice**       | Natural-language expense splitting with OCR and voice I/O           | React, Node.js, Whisper, OCR |
+| **LockIN** ([live](https://lockin-ge9d.onrender.com/)) | AI planner that learns from missed-task patterns and slots low-friction work into procrastination windows | React Native, Node.js, ML |
+| **GRASP**            | Self-supervised molecular representation aligning graphs and SMILES | PyTorch, PyG, Transformers   |
+| **HealthAI Connect** | Clinical decision support prototype with explainable imaging models | Python, Flask, CNNs          |
 
-## Tools I reach for
+## Toolkit
 
-JavaScript, TypeScript, React, Node.js, Python, PyTorch, Docker, AWS, PostgreSQL, Figma, Git
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `Python` · `PyTorch` · `Docker` · `AWS` · `PostgreSQL` · `Figma` · `Git`
 
 ## GitHub stats
 
-![Abdul Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=venaxin&show_icons=true&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venaxin&layout=compact)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=venaxin)
-
-## Connect
-
-- LinkedIn: [linkedin.com/in/abdul-rahman-hussain](https://linkedin.com/in/abdul-rahman-hussain)
-- Email: [arahmanhs02@gmail.com](mailto:arahmanhs02@gmail.com)
-- Portfolio: [venaxin.github.io/Portfolio-2025](https://venaxin.github.io/Portfolio-2025/)
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=venaxin&show_icons=true&include_all_commits=true&count_private=true" alt="Abdul Rahman's GitHub stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venaxin&layout=compact" alt="Top languages" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=venaxin" alt="GitHub streak" />
+</div>
