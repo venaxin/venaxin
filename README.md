@@ -10,7 +10,7 @@
 ## Now
 
 - **SplitVoice:** Building a conversational expense splitter with OCR receipt parsing and adaptive voice flows.
-- **Youro:** Partnering with the US startup to design and ship their cross-platform mobile product and supporting infrastructure.
+- **Youro:** Partnering with a startup to design and ship their cross-platform mobile product and supporting infrastructure.
 - **GRASP:** Extending a cross-modal self-supervised pipeline for chemistry datasets and low-label transfer.
 - **Practice:** Deepening React, Node.js, and data tooling for multimodal machine learning.
 
