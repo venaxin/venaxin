@@ -1,37 +1,39 @@
 # Abdul Rahman Hussain Siddique
 
 <div align="center">
-	<p><strong>Product-minded software engineer shaping voice-first and data-rich experiences that people actually use.</strong></p>
-	<p><a href="https://linkedin.com/in/abdul-rahman-hussain">LinkedIn</a> · <a href="mailto:arahmanhs02@gmail.com">Email</a> · <a href="https://venaxin.github.io/Portfolio-2025/">Portfolio</a></p>
+	<p><strong>AI-First Software Engineer bridging agentic workflows and reliable native infrastructure.</strong></p>
+	<p><a href="https://linkedin.com/in/abdul-rahman-hussain">LinkedIn</a> · <a href="mailto:abdulrahman.hussain02@gmail.com">Email</a> · <a href="https://github.com/venaxin">GitHub</a></p>
 </div>
 
 ---
 
 ## Now
 
+- **Venyx:** Engineering a macOS HMAS orchestrator focused on self-correcting loops.
+- **Cascaded Agentic RAG:** Implementing deterministic K-Core topologies for anomaly detection.
+- **Deepening my ML Core:** Completing my MS in AI/ML at UB, bringing academic principles into production-ready enterprise systems.
 - **SplitVoice:** Building a conversational expense splitter with OCR receipt parsing and adaptive voice flows.
-- **Youro:** Partnering with a startup to design and ship their cross-platform mobile product and supporting infrastructure.
-- **GRASP:** Extending a cross-modal self-supervised pipeline for chemistry datasets and low-label transfer.
-- **Practice:** Deepening React, Node.js, and data tooling for multimodal machine learning.
 
-## What guides my work
+## What I do best
 
-- Human-centered product discovery and usability research
-- Natural language, speech, and assistive interfaces
-- Applied ML for healthcare and scientific discovery
+- **Memory Optimization & Low-Latency:** Digging into system bounds (e.g., stopping severe ONNX memory leaks, benchmarking large corpora).
+- **Agentic Architectures:** Moving beyond chat interfaces; making LLMs/SLMs drive actual, complex native workflows.
+- **Native Polish:** Delivering experiences that don't just work well under the hood, but feel right in the hands of the user.
 
 ## Recent work
 
-| Project                                                | What it solves                                                                                            | Core stack                   |
+| Project                                                | What I did                                                                                                | Core stack                   |
 | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| **SplitVoice**                                         | Natural-language expense splitting with OCR and voice I/O                                                 | React, Node.js, Whisper, OCR |
-| **LockIN** ([live](https://lockin-ge9d.onrender.com/)) | AI planner that learns from missed-task patterns and slots low-friction work into procrastination windows | React Native, Node.js, ML    |
-| **GRASP**                                              | Self-supervised molecular representation aligning graphs and SMILES                                       | PyTorch, PyG, Transformers   |
-| **HealthAI Connect**                                   | Clinical decision support prototype with explainable imaging models                                       | Python, Flask, CNNs          |
+| **Venyx**                                              | Built agentic workflows and self-correcting loops via Gemini for macOS.                                   | Swift, Node.js, LLMs         |
+| **Cascaded Agentic RAG**                               | Engineered deterministic K-Core topologies acting over SLMs/LLMs for anomaly detection.                   | Python, FastAPI, Langchain   |
+| **Image Indexing**                                     | Eliminated 500-level crashes by fixing severe ONNX memory leaks on 10GB+ corpora.                         | PyTorch, FastAPI, ONNX       |
+| **SplitVoice**                                         | Natural-language expense splitting with OCR and voice I/O.                                                | React, Node.js, Whisper, OCR |
+| **LockIN** ([live](https://lockin-ge9d.onrender.com/)) | AI planner learning from missed-task patterns to slot low-friction work into procrastination windows.     | React Native, Node.js, ML    |
+| **HealthAI Connect**                                   | Clinical decision support prototype giving explainable diagnostics via a multi-modal interface.           | Python, Flask, CNNs          |
 
 ## Toolkit
 
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `Python` · `PyTorch` · `Docker` · `AWS` · `PostgreSQL` · `Figma` · `Git`
+`Python` · `JavaScript` · `TypeScript` · `Swift` · `FastAPI` · `PyTorch` · `ONNX` · `Node.js` · `React / React Native` · `Docker` · `PostgreSQL`
 
 ## GitHub stats
 
